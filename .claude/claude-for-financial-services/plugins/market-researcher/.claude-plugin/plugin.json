@@ -1,0 +1,9 @@
+{
+  "name": "market-researcher",
+  "version": "1.0.0",
+  "description": "Market trends, competitive intelligence, and industry research automation",
+  "author": {
+    "name": "Anthropic"
+  },
+  "keywords": ["market", "competition", "trends", "research", "intelligence"]
+}

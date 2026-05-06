@@ -1,0 +1,9 @@
+{
+  "name": "equity-research",
+  "version": "1.0.0",
+  "description": "Equity valuation, DCF analysis, comp tables, and research report generation",
+  "author": {
+    "name": "Anthropic"
+  },
+  "keywords": ["equity", "valuation", "dcf", "comps", "research"]
+}

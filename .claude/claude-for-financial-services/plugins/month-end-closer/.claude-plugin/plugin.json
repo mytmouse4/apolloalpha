@@ -1,0 +1,9 @@
+{
+  "name": "month-end-closer",
+  "version": "1.0.0",
+  "description": "Month-end closing workflows, checklists, accruals, and consolidation automation",
+  "author": {
+    "name": "Anthropic"
+  },
+  "keywords": ["closing", "month-end", "consolidation", "accruals", "audit"]
+}

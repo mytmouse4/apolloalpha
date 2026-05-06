@@ -1,0 +1,9 @@
+{
+  "name": "pitch-agent",
+  "version": "1.0.0",
+  "description": "Investment pitch evaluation, deal scoring, and presentation analysis",
+  "author": {
+    "name": "Anthropic"
+  },
+  "keywords": ["pitch", "deals", "investment", "scoring", "presentation"]
+}

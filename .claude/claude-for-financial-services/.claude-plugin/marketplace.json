@@ -1,0 +1,70 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-for-financial-services",
+  "description": "Financial analysis, research, and operations plugins for Claude",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Anthropic"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "financial-analysis",
+      "source": "./plugins/financial-analysis",
+      "description": "Core financial analysis: statement review, ratio analysis, forecasting, and modeling",
+      "version": "1.0.0",
+      "category": "finance",
+      "keywords": ["finance", "analysis", "modeling", "statements", "ratios"]
+    },
+    {
+      "name": "pitch-agent",
+      "source": "./plugins/pitch-agent",
+      "description": "Investment pitch evaluation, deal scoring, and presentation analysis",
+      "version": "1.0.0",
+      "category": "finance",
+      "keywords": ["pitch", "deals", "investment", "scoring", "presentation"]
+    },
+    {
+      "name": "gl-reconciler",
+      "source": "./plugins/gl-reconciler",
+      "description": "General ledger reconciliation, variance analysis, and journal entry automation",
+      "version": "1.0.0",
+      "category": "finance",
+      "keywords": ["accounting", "reconciliation", "gl", "journal", "variance"]
+    },
+    {
+      "name": "market-researcher",
+      "source": "./plugins/market-researcher",
+      "description": "Market trends, competitive intelligence, and industry research automation",
+      "version": "1.0.0",
+      "category": "research",
+      "keywords": ["market", "competition", "trends", "research", "intelligence"]
+    },
+    {
+      "name": "month-end-closer",
+      "source": "./plugins/month-end-closer",
+      "description": "Month-end closing workflows, checklists, accruals, and consolidation automation",
+      "version": "1.0.0",
+      "category": "finance",
+      "keywords": ["closing", "month-end", "consolidation", "accruals", "audit"]
+    },
+    {
+      "name": "investment-banking",
+      "source": "./plugins/investment-banking",
+      "description": "M&A advisory, IPO preparation, LBO modeling, and capital structure analysis",
+      "version": "1.0.0",
+      "category": "finance",
+      "keywords": ["m&a", "ipo", "lbo", "advisory", "capital-markets"]
+    },
+    {
+      "name": "equity-research",
+      "source": "./plugins/equity-research",
+      "description": "Equity valuation, DCF analysis, comp tables, and research report generation",
+      "version": "1.0.0",
+      "category": "research",
+      "keywords": ["equity", "valuation", "dcf", "comps", "research"]
+    }
+  ]
+}

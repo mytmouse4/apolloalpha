@@ -1,0 +1,19 @@
+{
+  "enabledPlugins": {
+    "financial-analysis@claude-for-financial-services": true,
+    "pitch-agent@claude-for-financial-services": true,
+    "gl-reconciler@claude-for-financial-services": true,
+    "market-researcher@claude-for-financial-services": true,
+    "month-end-closer@claude-for-financial-services": true,
+    "investment-banking@claude-for-financial-services": true,
+    "equity-research@claude-for-financial-services": true
+  },
+  "extraKnownMarketplaces": {
+    "claude-for-financial-services": {
+      "source": {
+        "source": "directory",
+        "path": ".claude/claude-for-financial-services"
+      }
+    }
+  }
+}

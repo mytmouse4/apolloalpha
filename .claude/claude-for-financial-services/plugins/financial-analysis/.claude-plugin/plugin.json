@@ -1,0 +1,9 @@
+{
+  "name": "financial-analysis",
+  "version": "1.0.0",
+  "description": "Core financial analysis: statement review, ratio analysis, forecasting, and modeling",
+  "author": {
+    "name": "Anthropic"
+  },
+  "keywords": ["finance", "analysis", "modeling", "statements", "ratios"]
+}

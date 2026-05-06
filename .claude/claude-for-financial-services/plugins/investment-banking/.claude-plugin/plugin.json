@@ -1,0 +1,9 @@
+{
+  "name": "investment-banking",
+  "version": "1.0.0",
+  "description": "M&A advisory, IPO preparation, LBO modeling, and capital structure analysis",
+  "author": {
+    "name": "Anthropic"
+  },
+  "keywords": ["m&a", "ipo", "lbo", "advisory", "capital-markets"]
+}

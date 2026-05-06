@@ -1,0 +1,9 @@
+{
+  "name": "gl-reconciler",
+  "version": "1.0.0",
+  "description": "General ledger reconciliation, variance analysis, and journal entry automation",
+  "author": {
+    "name": "Anthropic"
+  },
+  "keywords": ["accounting", "reconciliation", "gl", "journal", "variance"]
+}
